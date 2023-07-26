@@ -1,2 +1,2 @@
 K=int(input())
-print(K%7)
+print(K%7)+4
